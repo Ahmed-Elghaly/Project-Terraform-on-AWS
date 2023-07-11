@@ -1,0 +1,2 @@
+variable subnet-id {
+}
